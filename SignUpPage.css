@@ -1,0 +1,20 @@
+body {
+
+	background-color:pink;
+}
+form{
+	text-align:left;
+	border:2px solid black;
+	border-radius: 25px;
+	padding:2em;
+	background-color:#d3d3d3;
+	position:fixed;
+	top:50%;
+	left:50%;
+	transform:translate(-50%,-50%);
+}
+
+form h1 {
+	color:blue;
+	font-weight:bold;
+}
